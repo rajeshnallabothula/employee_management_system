@@ -1,1 +1,2 @@
-# employee_management_system
+# ems-java
+Employee Management System

@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/ems?createDatabaseIfNotExist=true
+    username: root
+    password: brinta@123
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+logging:
+  config: classpath:logback-local.xml 
